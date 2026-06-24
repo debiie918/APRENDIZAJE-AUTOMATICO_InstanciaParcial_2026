@@ -21,3 +21,39 @@ pip install -r requirements.txt
 **Materia:** Aprendizaje Automático 2026
 **Proyecto:** Modelo de Machine Learning para la Proyección de la Demanda de Consumo Eléctrico al Año 2027 en función de la Evolución Demográfica en Tierra del Fuego
 **Autora:** Débora Denis Macarena Calisaya
+
+# Pautas de Instrumento de Evaluación Parcial - Aprendizaje Automático
+
+## 🎯 Objetivo General
+El objetivo principal de este proyecto es aplicar técnicas de Aprendizaje Automático para abordar un problema de interés regional utilizando un DataSet relevante. A lo largo de este trabajo se exploran, preprocesan, modelan y evalúan datos con el fin de obtener conclusiones significativas y métricas de desempeño de los modelos.
+
+## 🛠️ Recursos y Restricciones Técnicas
+* **Lenguaje:** Python.
+* **Librerías principales:** `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`.
+* **Formato de código:** Archivos Notebook `.ipynb`.
+* **Estructura de Repositorio:** Obligatorio utilizar la plantilla **Cookiecutter Data Science**.
+* **Plataforma de entrega:** Compartido en un repositorio de Git (GitHub).
+* **Restricción de formato:** Queda estrictamente prohibido subir archivos en formato PDF al repositorio.
+
+## 📋 Desglose de las Fases del Proyecto
+
+### Descripción yFormulación del Problema
+* Selección y definición del problema a abordar.
+* Justificación de la elección (Regresión / Clasificación).
+* Identificación y descripción inicial de los datasets a utilizar.
+
+### Preprocesamiento y Análisis Exploratorio (EDA)
+* Proceso de ETL (Extracción, Transformación y Carga).
+* Análisis de consistencia, limpieza de nulos y duplicados.
+* Visualizaciones estadísticas (Histogramas con curvas de densidad, gráficos de dispersión).
+* Conclusiones clave del comportamiento de las variables.
+
+### Modelado y Evaluación Final
+* Presentación del modelo predictivo desarrollado.
+* Detalle de la arquitectura y algoritmos implementados.
+* Métricas de evaluación adecuadas para el problema.
+* Interpretación de resultados y proyecciones futuras (Escenarios 2026-2027).
+* Video explicativo de defensa de 7 minutos de duración.
+
+---
+*Documento transcrito a formato Markdown para cumplimiento de los lineamientos del repositorio Git.*
